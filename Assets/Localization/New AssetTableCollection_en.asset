@@ -1,26 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
-  m_Name: New AssetTableCollection_en
-  m_EditorClassIdentifier: 
-  m_LocaleId:
-    m_Code: en
-  m_SharedData: {fileID: 11400000, guid: 609de5304fb4e9b478997a4a2ab096a8, type: 2}
-  m_Metadata:
-    m_Items: []
-  m_TableData:
-  - m_Id: 76307750912
-    m_Localized: 640a0720c6cbb27498435818fb05813b
-    m_Metadata:
-      m_Items: []
-  references:
-    version: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:59903ce01d140257fea8f95a7fb44a49c34a4e7071f5b083bd329cca89cb02ee
+size 818
